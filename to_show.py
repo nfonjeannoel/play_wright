@@ -36,3 +36,4 @@ class EsbotSpider(scrapy.Spider):
 
     def parse(self, response):
         print(response.text)
+        # ad
